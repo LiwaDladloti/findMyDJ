@@ -1,0 +1,26 @@
+{
+  "name": "find_mydj",
+  "version": "1.0.0",
+  "description": "App to find your nearest DJ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cale312/findMyDJ.git"
+  },
+  "author": "Liwa & Cale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cale312/findMyDJ/issues"
+  },
+  "homepage": "https://github.com/cale312/findMyDJ#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.9.8",
+    "nodemon": "^1.11.0"
+  }
+}
